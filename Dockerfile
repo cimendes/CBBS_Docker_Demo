@@ -16,7 +16,7 @@ LABEL license=""
 LABEL tags=""
 
 # Maintainer
-MAINTAINER Inês Mendes <cimendes@medicina.ulisboa.pt>
+Label authors="Inês Mendes <cimendes@medicina.ulisboa.pt>"
 
 # System essentials
 
